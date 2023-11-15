@@ -4,7 +4,6 @@
 [This site is just random nonsense gotten from an AI with my poor attempt at web design. I am aware my pull requests don't follow the issue convention... Oh well, its to be expected when the instructions are written out of order. Some people just don't have enough time to casually read all the way to the end.]
 [//Website link//]
 [https://1000victor.github.io/github-website/]
-[https://github.com/1000victor/github-website]
 [//Techstack//]
 [Figma for Wireframe]
 [Github pages for hosting the site]
