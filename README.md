@@ -1,4 +1,6 @@
 [Wireframe](./Wireframe.pdf)
+[//LICENSE REASON//]
+[I chose MIT because it is much shorter to read and fits this project the most. I'm not exactly worried about derrivative creations and this repo is basically just me messing around with github's options. At the very least I think its a good insight of what I currently know about HTML.]
 [Citations:] 
 [img1](https://th.bing.com/th/id/OIP.WXiNsTOTCqeuCVKJ5fXUFwHaF7?pid=ImgDet&rs=1)
 [img2](https://th.bing.com/th/id/OIP.QmUrrcVwzRw-nnXBjHP8OAHaFc?pid=ImgDet&rs=1)
