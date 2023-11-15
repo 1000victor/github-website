@@ -1,9 +1,8 @@
 body{
     margin: 0;
-    text-align: center;
 }
 
-banner{
+.banner{
     background: #5480d9;
 }
 
